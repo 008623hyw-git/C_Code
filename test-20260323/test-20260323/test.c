@@ -1,5 +1,6 @@
 #define _CRT_SECURE_NO_WARNINGS
 #include <stdio.h>
+
 //求最小公倍数
 int main() {
 	int a = 0;
