@@ -1,9 +1,9 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\\u4F5C\u4E1A\\VS2022\uFF08C\u8BED\u8A00\u8BD5\u9A8C\uFF09\\test-20260304\\",
+  "WorkspaceRootPath": "D:\\\u4F5C\u4E1A\\\u81EA\u5B66\u7F16\u7A0B\uFF08repositories\uFF09\\C-VS2022-\\test-20260304\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{94FBA902-0D1B-4B0E-9535-53A9F05DFD4F}|test-20260304\\test-20260304.vcxproj|D:\\\u4F5C\u4E1A\\VS2022\uFF08C\u8BED\u8A00\u8BD5\u9A8C\uFF09\\test-20260304\\test-20260304\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "AbsoluteMoniker": "D:0:0:{94FBA902-0D1B-4B0E-9535-53A9F05DFD4F}|test-20260304\\test-20260304.vcxproj|D:\\\u4F5C\u4E1A\\\u81EA\u5B66\u7F16\u7A0B\uFF08repositories\uFF09\\C-VS2022-\\test-20260304\\test-20260304\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{94FBA902-0D1B-4B0E-9535-53A9F05DFD4F}|test-20260304\\test-20260304.vcxproj|solutionrelative:test-20260304\\test.c||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
   ],
@@ -20,9 +20,9 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "test.c",
-              "DocumentMoniker": "D:\\\u4F5C\u4E1A\\VS2022\uFF08C\u8BED\u8A00\u8BD5\u9A8C\uFF09\\test-20260304\\test-20260304\\test.c",
+              "DocumentMoniker": "D:\\\u4F5C\u4E1A\\\u81EA\u5B66\u7F16\u7A0B\uFF08repositories\uFF09\\C-VS2022-\\test-20260304\\test-20260304\\test.c",
               "RelativeDocumentMoniker": "test-20260304\\test.c",
-              "ToolTip": "D:\\\u4F5C\u4E1A\\VS2022\uFF08C\u8BED\u8A00\u8BD5\u9A8C\uFF09\\test-20260304\\test-20260304\\test.c",
+              "ToolTip": "D:\\\u4F5C\u4E1A\\\u81EA\u5B66\u7F16\u7A0B\uFF08repositories\uFF09\\C-VS2022-\\test-20260304\\test-20260304\\test.c",
               "RelativeToolTip": "test-20260304\\test.c",
               "ViewState": "AgIAABkAAAAAAAAAAAAAAB8AAAAOAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000423|",
