@@ -1,0 +1,5 @@
+﻿  test.c
+D:\作业\VS2022（C语言试验）\test-20260429\test-20260429\test.c(17,5): warning C4048: “int (*)[4]”和“int (*)[5]”数组的下标不同
+D:\作业\VS2022（C语言试验）\test-20260429\test-20260429\test.c(20,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“unsigned long”
+D:\作业\VS2022（C语言试验）\test-20260429\test-20260429\test.c(23,9): warning C4477: “printf”: 格式字符串“%p”需要类型“void *”的参数，但可变参数 1 拥有了类型“int”
+  test-20260429.vcxproj -> D:\作业\VS2022（C语言试验）\test-20260429\Debug\test-20260429.exe
